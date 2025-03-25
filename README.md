@@ -10,7 +10,9 @@ The Employee layoff across the countries gives us an over-view about the volume 
 Project Insights:
 
 •	Sum of Total number of employees Laid off by Country
+
 •	Total layoff by Year (2000-2023)
+
 •	Total layoff and Total fund raised by Month
 •	Total fund raised by Month and Industry
 •	Sum of Percentage of Employee Laid Off by Industry
